@@ -1,7 +1,7 @@
 # Projets-API_les-cookies
 # Projet-dataviz
 
-![image](https://github.com/user-attachments/assets/0fbbd6a7-88a5-4228-aeb9-d7f28e1a4fd7);![image](https://github.com/user-attachments/assets/d84e6d63-7156-4c7e-982f-99566f9c3d16)
+![image](https://github.com/user-attachments/assets/0fbbd6a7-88a5-4228-aeb9-d7f28e1a4fd7)![image](https://github.com/user-attachments/assets/d84e6d63-7156-4c7e-982f-99566f9c3d16)
 
 
 
